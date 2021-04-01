@@ -1,0 +1,5 @@
+Ferenc Nagy;ferike@gmail.com;Foglalós;2021-03-18;18:00
+Antal;antika@gmail.com;Webshop;2021-03-21;16:00
+Karcsi;kari@gmail.com;Weblap;2021-04-14;10:00
+Geza;gezu@gmail.com;Foglalós;2021-03-20;14:00
+Kircsu;ikr@gmai;Webshop;2021-02-28;18:00
